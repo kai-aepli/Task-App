@@ -1,0 +1,6 @@
+# Firebase configuration containing API keys
+firebase_options.dart
+*.env
+*.env.*
+!.env.example
+
